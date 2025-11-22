@@ -85,6 +85,11 @@ plt.tight_layout()
 plt.show()
 
 ```
+__Calculation__:
+![WhatsApp Image 2025-11-22 at 6 45 58 PM](https://github.com/user-attachments/assets/3557f47c-b427-459c-a5b2-face6a58e499)
+
+__Table__:
+![WhatsApp Image 2025-11-22 at 6 46 28 PM](https://github.com/user-attachments/assets/67372d84-b2ee-4731-b5cf-df42c7b288f8)
 
  __Output__:
 
