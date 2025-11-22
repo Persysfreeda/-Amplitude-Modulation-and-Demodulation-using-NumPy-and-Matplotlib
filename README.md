@@ -97,5 +97,4 @@ __Table__:
 
  __Result__:
  
- The amplitude modulation and demodulation were successfully implemented using Python. The message, carrier, modulated, and recovered signals were generated and verified correctly.
-
+<img width="1771" height="718" alt="image" src="https://github.com/user-attachments/assets/fefdbb94-80e8-4c01-b4d1-6802a670a5a8" />
